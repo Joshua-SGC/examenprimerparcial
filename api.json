@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 579.99,
+        "id": 1,
+        "title": "PvZ GW1",
+        "consola":"xbox one",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/1.jpg"
+    },
+    {
+        "precio": 700.99,
+        "id": 2,
+        "title": "Fallout 4",
+        "consola":"xbox one",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/2.jpg"
+    },
+    {
+        "precio": 1000.00,
+        "id": 3,
+        "title": "CRASH Bandicoot 4",
+        "consola":"xbox one",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/3.jpg"
+    },
+    {
+        "precio": 1300.00,
+        "id": 4,
+        "title": "Hogwarts LEGACY",
+        "consola":"Play Station 5",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/4.jpg"
+    },
+    {
+        "precio": 1409.00,
+        "id": 5,
+        "title": "Spider-man 2",
+        "consola":"Play Station 5",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/5.jpg"
+    },
+    {
+        "precio": 1300.99,
+        "id": 6,
+        "title": "God of War RAGNAROK",
+        "consola":"Play Station 5",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/6.jpg"
+    },
+    {
+        "precio": 1299.99,
+        "id": 7,
+        "title": "FARCRY6",
+        "consola":"Play Station 5",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/7.jpg"
+    },
+    {
+        "precio": 1200.00,
+        "id": 8,
+        "title": "Ratchet & Clank",
+        "consola":"Play Station 5",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/8.jpg"
+    },
+    {
+        "precio": 750.00,
+        "id": 9,
+        "title": "MINECRAFT",
+        "consola":"Nintendo switch",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/9.jpg"
+    },
+    {
+        "precio": 1250.00,
+        "id": 10,
+        "title": "Zelda: tears of kingdom",
+        "consola":"Nintendo switch",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/10.jpg"
+    },
+    {
+        "precio": 600.01,
+        "id": 11,
+        "title": "Cuphead",
+        "consola":"Nintendo switch",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/11.jpg"
+    },
+    {
+        "precio": 1300.00,
+        "id": 12,
+        "title": "Animal Crossing",
+        "consola":"Nintendo switch",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/12.jpg"
+    }
+]

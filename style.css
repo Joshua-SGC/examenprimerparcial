@@ -1,0 +1,22 @@
+header{
+    background-color: aquamarine;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    line-height: 200px;
+}
+footer{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+body {
+    height: 800px;
+    background-image: url("https://kempt-kisses.000webhostapp.com/examen/imagenes%20juegos/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
